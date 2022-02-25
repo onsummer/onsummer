@@ -8,6 +8,8 @@
 
 会点儿前端。
 
+我的常用邮箱 onsummer@foxmail.com
+
 # About Me
 
 I am a Chinese, I am really interested in learning graphics skills, computational geometry techniques and gis techniques. Now I am learning and using WebGPU Specification.
@@ -19,3 +21,5 @@ My major is gis.
 Now I am raising a family. 
 
 Know a little web front end.
+
+My email: onsummer@foxmail.com
